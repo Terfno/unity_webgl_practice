@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "webGLpractice",
+"dataUrl": "wegbl_ghpages.data.unityweb",
+"asmCodeUrl": "wegbl_ghpages.asm.code.unityweb",
+"asmMemoryUrl": "wegbl_ghpages.asm.memory.unityweb",
+"asmFrameworkUrl": "wegbl_ghpages.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
